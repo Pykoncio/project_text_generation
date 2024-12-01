@@ -1,0 +1,10 @@
+Entorno virtual: (Crear dentro de una carpeta) 
+
+python3 -m venv myVirtualEnvironment -> Crea la carpeta donde iran todas las dependencias
+
+.\myVirtualEnvironment\Scripts\Activate -> Activa el entorno virtual
+
+deactivate -> Desactiva el entorno virtual
+
+echo chat.py
+
