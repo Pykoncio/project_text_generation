@@ -148,7 +148,7 @@ def main():
         print("=== Historia Generada ===")
         print(history)
 
-        save = input("\n¿Quieres guardar la historia? (s/n)")
+        save = input("\n¿Quieres guardar la historia? (s/n): ")
         if save.lower() == "s":
             save_history(history)
         else:
