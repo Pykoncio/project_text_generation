@@ -45,6 +45,11 @@ Puedes emplear este proyecto como base para realizar implementaciones en tus pro
 
 ## Uso
 
-Una vez iniciemos el programa `histories_generator.py` nos pedirá por consola información básica con la cual generará nuestra historia.
+Para este primer uso trabajemos con el modelo <a href="https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct">Qwen2.5-0.5B-Instruct</a>, el cual lo hostearemos de forma local gracias a la facilidad que nos ofrece el respositorio <a href="https://github.com/oobabooga/text-generation-webui"> text-generation-webui</a> donde podremos descargar de forma sencilla cualquier modelo que queramos usar y poder hacerle peticiones para que nos genere prompts.
+
+Una vez iniciemos el programa `histories_generator.py` nos pedirá por consola información básica con la cual generará nuestra historia:
+
+1. Tendremos el género de la historia:
+<img source="https://drive.google.com/uc?id=1hah3pKQNZzo53lkHuU9qP0Qllut9IhaT"/>
 
 
